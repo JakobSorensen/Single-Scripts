@@ -1,0 +1,103 @@
+{
+    "Name": "fooyin Window Layout (Compact)",
+    "Theme": "AAAAAQAAAAAAAAAA/////wAAAAAEAAAABQAAAAAB///c3L6+oKAAAAAAAAUAAAABAf//AAAAAAAAAAAAAAAFAAAABwH//9zcy8u5uQAAAAAABQAAAAoB//8AAAAAAAAAAAAAAAA=",
+    "Version": 1,
+    "Widgets": [
+        {
+            "SplitterVertical": {
+                "State": "AAAA/wAAAAEAAAACAAAA2QAAAWEA/////wEAAAACAA==",
+                "Widgets": [
+                    {
+                        "SplitterHorizontal": {
+                            "State": "AAAA/wAAAAEAAAACAAAA8QAAAZYA/////wEAAAABAA==",
+                            "Widgets": [
+                                {
+                                    "ArtworkPanel": {
+                                        "CoverAlignment": 132,
+                                        "CoverType": 0,
+                                        "KeepAspectRatio": true
+                                    }
+                                },
+                                {
+                                    "SplitterVertical": {
+                                        "State": "AAAA/wAAAAEAAAADAAAAnQAAABwAAAAwAP////8BAAAAAgA=",
+                                        "Widgets": [
+                                            {
+                                                "StatusBar": {
+                                                }
+                                            },
+                                            {
+                                                "SeekBar": {
+                                                    "ElapsedTotal": false,
+                                                    "ShowLabels": true
+                                                }
+                                            },
+                                            {
+                                                "SplitterHorizontal": {
+                                                    "State": "AAAA/wAAAAEAAAACAAAAmgAAAMoA/////wEAAAABAA==",
+                                                    "Widgets": [
+                                                        {
+                                                            "SplitterVertical": {
+                                                                "State": "AAAA/wAAAAEAAAACAAAAFwAAABcA/////wEAAAACAA==",
+                                                                "Widgets": [
+                                                                    {
+                                                                        "PlayerControls": {
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "VolumeControls": {
+                                                                            "Mode": 3
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        },
+                                                        {
+                                                            "SplitterHorizontal": {
+                                                                "State": "AAAA/wAAAAEAAAACAAAASAAAAH4A/////wEAAAABAA==",
+                                                                "Widgets": [
+                                                                    {
+                                                                        "PlaylistControls": {
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "Spacer": {
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "SplitterVertical": {
+                            "State": "AAAA/wAAAAEAAAACAAAAJgAAAkMA/////wEAAAACAA==",
+                            "Widgets": [
+                                {
+                                    "PlaylistTabs": {
+                                    }
+                                },
+                                {
+                                    "Playlist": {
+                                        "Columns": "8:132|7:2|22|10",
+                                        "HeaderState": "AAAAVXjaY2BgYGFgYBAB4mgGBsZ+IG3JABEDASYgZgRiZpCY/czvwoJFDBfsj+xNi1LiOWL/bJejf/YSUftdpik8TK5LQAoZ/gMBALT8Egs=",
+                                        "ID": "5b31784e8a4d4b688fce1e8c27f0fd47",
+                                        "Preset": 0,
+                                        "SingleMode": false
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
